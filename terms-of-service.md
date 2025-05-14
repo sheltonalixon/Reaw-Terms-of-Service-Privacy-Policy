@@ -2,7 +2,7 @@
 
 **Última actualización**: 12 de mayo de 2025
 
-Bienvenido a **Reaw**, un bot de Discord diseñado para enviar notificaciones de nuevos episodios de anime y noticias de Crunchyroll a canales de servidores o mensajes directos (DMs). Al usar **Reaw** (ID: 1370988836343250994), aceptas estos Términos de Servicio ("ToS") y nuestra [Política de Privacidad](https://github.com/sheltonalixon/Reaw-Terms-of-Service-Privacy-Policy/blob/e1eeb7bf921692fd65493f8e3754e974790fc264/privacy-policy.md). También aceptas cumplir con los [Términos de Servicio de Discord](https://discord.com/terms) y las [Directrices de la Comunidad de Discord](https://discord.com/guidelines).
+Bienvenido a **Reaw**, un bot de Discord diseñado para enviar notificaciones de nuevos episodios de anime y noticias de Crunchyroll a canales de servidores o mensajes directos (DMs). Al usar **Reaw** (ID: 1370988836343250994), aceptas estos Términos de Servicio ("ToS") y nuestra [Política de Privacidad](/Reaw-Terms-of-Service-Privacy-Policy/privacy-policy). También aceptas cumplir con los [Términos de Servicio de Discord](https://discord.com/terms) y las [Directrices de la Comunidad de Discord](https://discord.com/guidelines).
 
 ## 1. Uso del Bot
 - **Reaw** está diseñado para proporcionar notificaciones de Crunchyroll a usuarios y servidores de Discord.
@@ -13,7 +13,7 @@ Bienvenido a **Reaw**, un bot de Discord diseñado para enviar notificaciones de
 - Debes tener los permisos necesarios (por ejemplo, Administrador o Gestionar Canales) para configurar el bot en un servidor.
 
 ## 2. Datos Recopilados
-- **Reaw** recopila datos mínimos para funcionar, como IDs de usuarios, servidores y canales, y configuraciones de suscripción. Consulta nuestra [Política de Privacidad](https://github.com/sheltonalixon/Reaw-Terms-of-Service-Privacy-Policy/blob/e1eeb7bf921692fd65493f8e3754e974790fc264/privacy-policy.md) para más detalles.
+- **Reaw** recopila datos mínimos para funcionar, como IDs de usuarios, servidores y canales, y configuraciones de suscripción. Consulta nuestra [Política de Privacidad](/Reaw-Terms-of-Service-Privacy-Policy/privacy-policy) para más detalles.
 
 ## 3. Terminación
 - Nos reservamos el derecho de suspender o bloquear el acceso a **Reaw** en cualquier momento, sin previo aviso, si detectamos un uso indebido, violaciones de este ToS, o incumplimiento de las políticas de Discord.
@@ -28,8 +28,8 @@ Bienvenido a **Reaw**, un bot de Discord diseñado para enviar notificaciones de
 
 ## 6. Contacto
 - Para preguntas, problemas o solicitudes relacionadas con **Reaw**, contáctanos:
-  - Servidor de soporte: https://discord.gg/DeCCNafkyh
-  - Correo electrónico: sheltonlxn@gmail.com
+  - Servidor de soporte: [https://discord.gg/DeCCNafkyh](https://discord.gg/DeCCNafkyh)
+  - Correo electrónico: [sheltonlxn@gmail.com](mailto:sheltonlxn@gmail.com)
 
 ---
 
