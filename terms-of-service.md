@@ -13,7 +13,7 @@ Bienvenido a **Reaw**, un bot de Discord diseñado para enviar notificaciones de
 - Debes tener los permisos necesarios (por ejemplo, Administrador o Gestionar Canales) para configurar el bot en un servidor.
 
 ## 2. Datos Recopilados
-- **Reaw** recopila datos mínimos para funcionar, como IDs de usuarios, servidores y canales, y configuraciones de suscripción. Consulta nuestra [Política de Privacidad](https://tu-usuario.github.io/Reaw-Terms-of-Service-Privacy-Policy/privacy-policy) para más detalles.
+- **Reaw** recopila datos mínimos para funcionar, como IDs de usuarios, servidores y canales, y configuraciones de suscripción. Consulta nuestra [Política de Privacidad](https://github.com/sheltonalixon/Reaw-Terms-of-Service-Privacy-Policy/blob/e1eeb7bf921692fd65493f8e3754e974790fc264/privacy-policy.md) para más detalles.
 
 ## 3. Terminación
 - Nos reservamos el derecho de suspender o bloquear el acceso a **Reaw** en cualquier momento, sin previo aviso, si detectamos un uso indebido, violaciones de este ToS, o incumplimiento de las políticas de Discord.
