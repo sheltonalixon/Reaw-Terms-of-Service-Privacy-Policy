@@ -36,7 +36,7 @@ Puedes ejercer los siguientes derechos:
 - **Eliminar datos**: Usa `/deactivatesub` o `/deactivatesubdm` para eliminar tus suscripciones y datos asociados.
 - **Acceder a datos**: Solicita una copia de los datos almacenados sobre ti contactándonos.
 - **Oponerte al procesamiento**: Puedes desactivar las notificaciones en cualquier momento.
-- Para solicitudes de datos, contáctanos en nuestro servidor de soporte o por correo electrónico (ver sección 6).
+- Para solicitudes de datos, contáctanos en nuestro servidor de soporte o por correo electrónico (ver sección 7).
 
 ## 6. Menores de Edad
 - **Reaw** no está dirigido a menores de 13 años. No recopilamos datos de usuarios menores de esta edad a sabiendas.
@@ -44,7 +44,7 @@ Puedes ejercer los siguientes derechos:
 
 ## 7. Contacto
 Para preguntas, solicitudes de datos, o inquietudes sobre esta política, contáctanos:
-- Servidor de soporte: [enlace al servidor]
+- Servidor de soporte: https://discord.gg/DeCCNafkyh
 - Correo electrónico: sheltonlxn@gmail.com
 
 ## 8. Cambios a esta Política
