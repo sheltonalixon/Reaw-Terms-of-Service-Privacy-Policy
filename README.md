@@ -3,8 +3,8 @@
 Este repositorio contiene los documentos legales para **Reaw**, un bot de Discord que envía notificaciones de nuevos episodios de anime y noticias de Crunchyroll.
 
 ## Documentos
-- [Términos de Servicio](https://sheltonalixon.github.io/Reaw-Terms-of-Service-Privacy-Policy/terms-of-service)
-- [Política de Privacidad](https://github.com/sheltonalixon/Reaw-Terms-of-Service-Privacy-Policy/blob/7a8966096f077668c969dc30d5af1aa6806362c8/privacy-policy.md)
+- [Términos de Servicio](/Reaw-Terms-of-Service-Privacy-Policy/terms-of-service)
+- [Política de Privacidad](/Reaw-Terms-of-Service-Privacy-Policy/privacy-policy)
 
 ## Contacto
 - Servidor de soporte: https://discord.gg/DeCCNafkyh
