@@ -2,7 +2,7 @@
 
 **Última actualización**: 12 de mayo de 2025
 
-Bienvenido a **Reaw**, un bot de Discord diseñado para enviar notificaciones de nuevos episodios de anime y noticias de Crunchyroll a canales de servidores o mensajes directos (DMs). Al usar **Reaw** (ID: 1370988836343250994), aceptas estos Términos de Servicio ("ToS") y nuestra [Política de Privacidad](https://tu-usuario.github.io/Reaw-Terms-of-Service-Privacy-Policy/privacy-policy). También aceptas cumplir con los [Términos de Servicio de Discord](https://discord.com/terms) y las [Directrices de la Comunidad de Discord](https://discord.com/guidelines).
+Bienvenido a **Reaw**, un bot de Discord diseñado para enviar notificaciones de nuevos episodios de anime y noticias de Crunchyroll a canales de servidores o mensajes directos (DMs). Al usar **Reaw** (ID: 1370988836343250994), aceptas estos Términos de Servicio ("ToS") y nuestra [Política de Privacidad](https://github.com/sheltonalixon/Reaw-Terms-of-Service-Privacy-Policy/blob/e1eeb7bf921692fd65493f8e3754e974790fc264/privacy-policy.md). También aceptas cumplir con los [Términos de Servicio de Discord](https://discord.com/terms) y las [Directrices de la Comunidad de Discord](https://discord.com/guidelines).
 
 ## 1. Uso del Bot
 - **Reaw** está diseñado para proporcionar notificaciones de Crunchyroll a usuarios y servidores de Discord.
