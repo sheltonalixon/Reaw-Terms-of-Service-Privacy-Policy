@@ -44,8 +44,8 @@ Puedes ejercer los siguientes derechos:
 
 ## 7. Contacto
 Para preguntas, solicitudes de datos, o inquietudes sobre esta política, contáctanos:
-- Servidor de soporte: https://discord.gg/DeCCNafkyh
-- Correo electrónico: sheltonlxn@gmail.com
+- Servidor de soporte: [https://discord.gg/DeCCNafkyh](https://discord.gg/DeCCNafkyh)
+- Correo electrónico: [sheltonlxn@gmail.com](mailto:sheltonlxn@gmail.com)
 
 ## 8. Cambios a esta Política
 Podemos actualizar esta Política de Privacidad en cualquier momento. Los cambios se publicarán en esta página y, si son significativos, se anunciarán en nuestro servidor de soporte. La versión actualizada entra en vigor al publicarse.
