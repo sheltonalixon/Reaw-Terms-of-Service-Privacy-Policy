@@ -7,7 +7,7 @@ lang: es
 
 **Última actualización**: 13 de mayo de 2025
 
-Esta Política de Privacidad describe cómo **Reaw** (ID: 1370988836343250994), un bot de Discord, recopila, usa, almacena y protege los datos de los usuarios. Al usar **Reaw**, aceptas las prácticas descritas en esta política y en nuestros [Términos de Servicio](/terms-of-service.es). **Reaw** cumple con los [Términos de Servicio para Desarrolladores de Discord](https://discord.com/developers/docs/policies-and-agreements/developer-terms-of-service) y la [Política de Desarrolladores de Discord](https://discord.com/developers/docs/policies-and-agreements/developer-policy).
+Esta Política de Privacidad describe cómo **Reaw** (ID: 1370988836343250994), un bot de Discord, recopila, usa, almacena y protege los datos de los usuarios. Al usar **Reaw**, aceptas las prácticas descritas en esta política y en nuestros [Términos de Servicio](/Reaw-Terms-of-Service-and-Privacy-Policy/terms-of-service.es). **Reaw** cumple con los [Términos de Servicio para Desarrolladores de Discord](https://discord.com/developers/docs/policies-and-agreements/developer-terms-of-service) y la [Política de Desarrolladores de Discord](https://discord.com/developers/docs/policies-and-agreements/developer-policy).
 
 ## 1. Datos que Recopilamos
 Recolectamos la información mínima necesaria para operar **Reaw**:
