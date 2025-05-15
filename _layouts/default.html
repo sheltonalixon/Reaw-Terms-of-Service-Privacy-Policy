@@ -53,14 +53,9 @@
     <p>{% if page.lang == 'en' %}Legal Documents{% else %}Documentos Legales{% endif %}</p>
     <div class="language-selector">
       {% if page.lang == 'es' %}
-        <span>Español</span> | 
-        <a href="{% if page.permalink == '/' %}/Reaw-Terms-of-Service-and-Privacy-Policy/README.en
-                   {% elsif page.url contains 'README.es' %}/Reaw-Terms-of-Service-and-Privacy-Policy/README.en
-                   {% else %}{{ page.url | replace: '.es.html', '.en' }}{% endif %}">English</a>
+        <span>Español</span> | <a href="{% if page.url contains 'README.es' or page.permalink == '/' %}/Reaw-Terms-of-Service-and-Privacy-Policy/README.en{% else %}{{ page.url | replace: '.es', '.en' }}{% endif %}">English</a>
       {% else %}
-        <a href="{% if page.url contains 'README.en' %}/Reaw-Terms-of-Service-and-Privacy-Policy/
-                 {% else %}{{ page.url | replace: '.en.html', '.es' }}{% endif %}">Español</a> | 
-        <span>English</span>
+        <a href="{% if page.url contains 'README.en' %}/Reaw-Terms-of-Service-and-Privacy-Policy/{% else %}{{ page.url | replace: '.en', '.es' }}{% endif %}">Español</a> | <span>English</span>
       {% endif %}
     </div>
   </div>
