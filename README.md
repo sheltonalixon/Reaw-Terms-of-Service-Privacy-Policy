@@ -7,5 +7,5 @@ Este repositorio contiene los documentos legales para **Reaw**, un bot de Discor
 - [Política de Privacidad](/Reaw-Terms-of-Service-Privacy-Policy/privacy-policy)
 
 ## Contacto
-- Servidor de soporte: https://discord.gg/DeCCNafkyh
-- Correo electrónico: sheltonlxn@gmail.com
+- Servidor de soporte: [https://discord.gg/DeCCNafkyh](https://discord.gg/DeCCNafkyh)
+- Correo electrónico: [sheltonlxn@gmail.com](mailto:sheltonlxn@gmail.com)
