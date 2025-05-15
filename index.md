@@ -1,12 +1,11 @@
 ---
 layout: default
-title: Documentos Legales de Reaw
 lang: es
 permalink: /
 ---
-# Documentos Legales de Reaw
+# Reaw Terms of Service & Privacy Policy
 
-**Reaw** es un bot de Discord que envía notificaciones de nuevos episodios de anime y noticias de Crunchyroll.
+Este repositorio contiene los documentos legales para **Reaw**, un bot de Discord que envía notificaciones de nuevos episodios de anime y noticias de Crunchyroll.
 
 ## Documentos
 - [Términos de Servicio](/Reaw-Terms-of-Service-and-Privacy-Policy/terms-of-service.es)
