@@ -50,28 +50,22 @@
 <body>
   <div class="header">
     <h1>Reaw</h1>
-    <p>Documentos Legales</p>
+    <p>{% if page.lang == 'en' %}Legal Documents{% else %}Documentos Legales{% endif %}</p>
     <div class="language-selector">
       {% if page.lang == 'es' %}
-        <span>Español</span> |
-        {% if page.url contains 'README.es' or page.permalink == '/' %}
-          <a href="/Reaw-Terms-of-Service-and-Privacy-Policy/README.en">English</a>
-        {% else %}
-          <a href="{{ page.url | replace: '.es', '.en' }}">English</a>
-        {% endif %}
+        <span>Español</span> | <a href="{% if page.url contains 'README.es' or page.permalink == '/' %}/Reaw-Terms-of-Service-and-Privacy-Policy/README.en{% else %}{{ page.url | replace: '.es', '.en' }}{% endif %}">English</a>
       {% else %}
-        {% if page.url contains 'README.en' %}
-          <a href="/Reaw-Terms-of-Service-and-Privacy-Policy/">Español</a>
-        {% else %}
-          <a href="{{ page.url | replace: '.en', '.es' }}">Español</a>
-        {% endif %}
-        | <span>English</span>
+        <a href="{% if page.url contains 'README.en' %}/Reaw-Terms-of-Service-and-Privacy-Policy/{% else %}{{ page.url | replace: '.en', '.es' }}{% endif %}">Español</a> | <span>English</span>
       {% endif %}
     </div>
   </div>
   {{ content }}
   <div class="footer">
-    <p>© 2025 Reaw. Todos los derechos reservados. | <a href="https://discord.gg/DeCCNafkyh">Servidor de Soporte</a> | <a href="mailto:sheltonlxn@gmail.com">Contacto</a></p>
+    <p>
+      © 2025 Reaw. {% if page.lang == 'en' %}All rights reserved.{% else %}Todos los derechos reservados.{% endif %}
+      | <a href="https://discord.gg/DeCCNafkyh">{% if page.lang == 'en' %}Support Server{% else %}Servidor de Soporte{% endif %}</a>
+      | <a href="mailto:sheltonlxn@gmail.com">{% if page.lang == 'en' %}Contact{% else %}Contacto{% endif %}</a>
+    </p>
   </div>
 </body>
 </html>
