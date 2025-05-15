@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="{{ page.lang | default: 'es' }}">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -32,6 +32,13 @@
       font-size: 2em;
       margin: 0;
     }
+    .language-selector {
+      margin-top: 10px;
+      font-size: 0.9em;
+    }
+    .language-selector a {
+      margin: 0 10px;
+    }
     .footer {
       margin-top: 40px;
       text-align: center;
@@ -44,6 +51,13 @@
   <div class="header">
     <h1>Reaw</h1>
     <p>Documentos Legales</p>
+    <div class="language-selector">
+      {% if page.lang == 'es' %}
+        <span>Español</span> | <a href="{{ page.url | replace: '.es', '.en' }}">English</a>
+      {% else %}
+        <a href="{{ page.url | replace: '.en', '.es' }}">Español</a> | <span>English</span>
+      {% endif %}
+    </div>
   </div>
   {{ content }}
   <div class="footer">
