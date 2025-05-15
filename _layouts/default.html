@@ -53,9 +53,19 @@
     <p>Documentos Legales</p>
     <div class="language-selector">
       {% if page.lang == 'es' %}
-        <span>Español</span> | <a href="{{ page.url | replace: '.es', '.en' }}">English</a>
+        <span>Español</span> |
+        {% if page.url contains 'README.es' or page.permalink == '/' %}
+          <a href="/Reaw-Terms-of-Service-and-Privacy-Policy/README.en">English</a>
+        {% else %}
+          <a href="{{ page.url | replace: '.es', '.en' }}">English</a>
+        {% endif %}
       {% else %}
-        <a href="{{ page.url | replace: '.en', '.es' }}">Español</a> | <span>English</span>
+        {% if page.url contains 'README.en' %}
+          <a href="/Reaw-Terms-of-Service-and-Privacy-Policy/">Español</a>
+        {% else %}
+          <a href="{{ page.url | replace: '.en', '.es' }}">Español</a>
+        {% endif %}
+        | <span>English</span>
       {% endif %}
     </div>
   </div>
