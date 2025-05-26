@@ -54,9 +54,9 @@
     <div class="language-selector">
       {% if page.lang == 'es' %}
         <span>Español</span> | 
-        <a href="{% if page.url contains 'README.es' or page.permalink == '/' %}/Reaw-Terms-of-Service-and-Privacy-Policy/README.en{% elsif page.url contains 'terms-of-service.es' %}/Reaw-Terms-of-Service-and-Privacy-Policy/terms-of-service.en{% elsif page.url contains 'privacy-policy.es' %}/Reaw-Terms-of-Service-and-Privacy-Policy/privacy-policy.en{% endif %}">English</a>
+        <a href="{% if page.url contains 'legal-documents.es' or page.permalink == '/' %}/reaw.com/legal-documents.en{% elsif page.url contains 'terms-of-service.es' %}/reaw.com/terms-of-service.en{% elsif page.url contains 'privacy-policy.es' %}/reaw.com/privacy-policy.en{% endif %}">English</a>
       {% else %}
-        <a href="{% if page.url contains 'README.en' %}/Reaw-Terms-of-Service-and-Privacy-Policy/{% elsif page.url contains 'terms-of-service.en' %}/Reaw-Terms-of-Service-and-Privacy-Policy/terms-of-service.es{% elsif page.url contains 'privacy-policy.en' %}/Reaw-Terms-of-Service-and-Privacy-Policy/privacy-policy.es{% endif %}">Español</a> | <span>English</span>
+        <a href="{% if page.url contains 'legal-documents.en' %}/reaw.com/{% elsif page.url contains 'terms-of-service.en' %}/reaw.com/terms-of-service.es{% elsif page.url contains 'privacy-policy.en' %}/reaw.com/privacy-policy.es{% endif %}">Español</a> | <span>English</span>
       {% endif %}
     </div>
   </div>
