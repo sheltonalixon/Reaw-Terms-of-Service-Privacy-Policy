@@ -7,7 +7,7 @@ lang: en
 
 **Last Updated**: May 13, 2025
 
-Welcome to **Reaw**, a Discord bot designed to send notifications about new anime episodes and Crunchyroll news to server channels or direct messages (DMs). By using **Reaw** (ID: 1370988836343250994), you agree to these Terms of Service ("ToS") and our [Privacy Policy](/Reaw-Terms-of-Service-and-Privacy-Policy/privacy-policy.en). You also agree to comply with the [Discord Terms of Service](https://discord.com/terms) and the [Discord Community Guidelines](https://discord.com/guidelines).
+Welcome to **Reaw**, a Discord bot designed to send notifications about new anime episodes and Crunchyroll news to server channels or direct messages (DMs). By using **Reaw** (ID: 1370988836343250994), you agree to these Terms of Service ("ToS") and our [Privacy Policy](/reaw.com/privacy-policy.en). You also agree to comply with the [Discord Terms of Service](https://discord.com/terms) and the [Discord Community Guidelines](https://discord.com/guidelines).
 
 ## 1. Use of the Bot
 - **Reaw** is designed to provide Crunchyroll notifications to users and Discord servers.
@@ -18,7 +18,7 @@ Welcome to **Reaw**, a Discord bot designed to send notifications about new anim
 - You must have the necessary permissions (e.g., Administrator or Manage Channels) to configure the bot in a server.
 
 ## 2. Data Collected
-- **Reaw** collects minimal data to function, such as user IDs, server IDs, channel IDs, and subscription settings. See our [Privacy Policy](/Reaw-Terms-of-Service-and-Privacy-Policy/privacy-policy.en) for more details.
+- **Reaw** collects minimal data to function, such as user IDs, server IDs, channel IDs, and subscription settings. See our [Privacy Policy](/reaw.com/privacy-policy.en) for more details.
 
 ## 3. Termination
 - We reserve the right to suspend or block access to **Reaw** at any time, without prior notice, if we detect misuse, violations of these ToS, or non-compliance with Discord's policies.
